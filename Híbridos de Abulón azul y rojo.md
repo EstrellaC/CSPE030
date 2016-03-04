@@ -36,4 +36,5 @@ en cuanto a la progenie de las hembras hibridas se espera que tengan un tiempo d
 
 
 
+**Nota:**
 Las alozimas son formas alternativas de una enzima, codificadas por diferentes alelos de un mismo locus genético.
