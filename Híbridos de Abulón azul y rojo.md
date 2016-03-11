@@ -1,16 +1,17 @@
+<img src="http://posgrados.cicese.mx/img/logos/cicese.jpg" / width = 20%>
 
-#**Certificación genética de presuntos híbridos de abulón azul y rojo (*Haliotis fulgens Philippi and H. rufescens Swainson*)**
+##**Certificación genética de presuntos híbridos de abulón azul y rojo (*Haliotis fulgens Philippi and H. rufescens Swainson*)**
 
-Aquaculture Research, 2005
+#####Aquaculture Research, 2005
 
-Ana M. Ibarra
-Norma Karina Hernández-Ibarra
-Pedro Cruz
-Ricardo Pérez-Enríquez
-Susana Ávila
-José  L. Ramírez
+######Ana M. Ibarra
+######Norma Karina Hernández-Ibarra
+######Pedro Cruz
+######Ricardo Pérez-Enríquez
+######Susana Ávila
+######José  L. Ramírez
 
-Resumen por: Cordova Secuendino Paola Estrella
+**Resumen por:**Cordova Secuendino Paola Estrella
 
 En el este estudio se verificó la producción de 40 presuntos híbridos, procedentes  de hembras de abulón rojo 
 y machos de abulón azul en el  laboratorio “BC Abalone” en el ejido Eréndira en B.C. México, mediante el uso 
@@ -38,3 +39,7 @@ en cuanto a la progenie de las hembras hibridas se espera que tengan un tiempo d
 
 **Nota:**
 Las alozimas son formas alternativas de una enzima, codificadas por diferentes alelos de un mismo locus genético.
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU7j_DIrDG5UgoQJwCZraZWREbepSUwE0XDp_hj3JxO3FwBvGJ" / width = 14%>
+<img src="https://s-media-cache-ak0.pinimg.com/236x/53/b1/f7/53b1f7ae3b67b10450aadf5b73ca1735.jpg" / width = 14%>
+
