@@ -1,6 +1,6 @@
 <img src="http://posgrados.cicese.mx/img/logos/cicese.jpg" / width = 25%> **11 de Marzo del 2016**
 
-###Centromere mapping in the Pacific abalone (Haliotis discus hannai) through half-tetrad analysis in gynogenetic diploid families
+###Centromere mapping in the Pacific abalone (*Haliotis discus hannai*) through half-tetrad analysis in gynogenetic diploid families
 
 ####Stichting International Foundation for Animal Genetics, 2011.
 
