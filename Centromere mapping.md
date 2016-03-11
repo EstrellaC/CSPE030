@@ -1,0 +1,45 @@
+<img src="http://posgrados.cicese.mx/img/logos/cicese.jpg" / width = 25%>
+
+###Centromere mapping in the Pacific abalone (Haliotis discus hannai) through half-tetrad analysis in gynogenetic diploid families
+
+####Stichting International Foundation for Animal Genetics, 2011.
+
+#####H.T. Nie
+#####Q. Li
+#####L.F. Kong
+
+**Resumen por:** Cordova Secundino Paola Estrella
+
+En el presente estudio se produjeron dos familias ginogenéticas A y B, para lograrlo, los óvulos fueron 
+inseminados con esperma irradiado por UV, seguido de una inhibición de expulsión del segundo cuerpo polar  
+mediante el uso de citocalasina B (0.5 ug/ml)
+
+<img src="http://lan.sagepub.com/content/vol43/issue2/images/large/LA-08-01303.jpeg" / width = 30%>
+
+También se realizaron inseminaciones de óvulos con espermas viables para obtener diploides como control.
+
+72 horas después de la inseminación se colectaron las larvas veliger.
+
+<img src="http://3.bp.blogspot.com/-agTWvjA5aCY/Td_xFDn5uAI/AAAAAAAAAAs/IXWKsWK787s/s1600/nassarius%2B2.jpg" / width = 30%>
+
+Se realizaron extracciones de DNA genómico de muestras de los reproductores y las larvas.
+
+Para la genotificación  se utilizaron 115 microsatélites mapeados para abulones del Pacífico, 
+se evaluaron mediante el uso de PCR y el genotipado del DNA de los padres, donde 97 microsatélites
+resultaron ser informativos en al menos una de las dos familias. 
+
+La amplificación de los productos de PCR se realizó en un gel de poliacrilamida mediante tinción de plata.  
+
+Para la verificación de los organismos giongénicos meióticos se utilizaron alelos unicos de los machos, estos alelos 
+unicos permiten evaluar si los progenitores masculinos contribuyeron a los genomas de la progenie,
+donde la familia A tienen 63 alelos únicos, y la familia B tiene 33 alelos únicos.
+
+Ningún alelo paterno fue encontrado en la progenie de ambas familias ginogenéticas, de un total de 6713 larvas veliger, 
+lo que confirmo con un 100% la inducción de la ginogenésis. 
+
+Ninguna de las larvas veliger muestreadas fue homocigoto para los loci examinados, 
+esto indica que las larvas no eran haploides, por lo que eran verdaderos diploides ginogenéticos, 
+que podrían ser utilizados para el mapeo de centrómero.
+
+
+
