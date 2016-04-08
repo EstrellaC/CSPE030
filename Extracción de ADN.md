@@ -30,7 +30,7 @@ La finalidad del estudio es comparar dos protocolos de extracción de DNA, el pr
 
 En sus resultados reportan que el protocolo modificado de sales permitió obtener AND íntegro y con una baja cantidad de contaminantes, independientemente de la muestra, esto se confirma en  la figura 1, que muestra un del gel de agarosa, donde se observa ausencia de fragmentos. 
 
-<img src="http://www.scielo.cl/fbpe/img/ciagr/v35n1/fig08-01.jpg" / width = 20%>
+<img src="http://www.scielo.cl/fbpe/img/ciagr/v35n1/fig08-01.jpg" / width = 70%>
 
 
 
