@@ -9,7 +9,8 @@
 **Disponible en:** http://www.scielo.cl/scielo.php?pid=S0718-16202008000100008&script=sci_arttext&tlng=en
 
 
-**Resumen por:**Córdova Secuendino Paola Estrella <imgsrc="http://cdn.encuentos.com/wp-content/uploads/2011/10/la-estrella-malula.gif" / width = 5%>
+**Resumen por:**Córdova Secuendino Paola Estrella 
+<img src="http://cdn.encuentos.com/wp-content/uploads/2011/10/la-estrella-malula.gif" / width = 7%>
 
 Este estudio se realizó a partir de cinco especies de peces:
 
