@@ -1,6 +1,6 @@
 <img src="http://posgrados.cicese.mx/img/logos/cicese.jpg" / width = 20%>
 
-##**[Certificación genética de presuntos híbridos de abulón azul y rojo (*Haliotis fulgens* Philippi y *H. rufescens* Swainson)**] (http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2109.2005.01353.x/full)
+##[**Certificación genética de presuntos híbridos de abulón azul y rojo (*Haliotis fulgens* Philippi y *H. rufescens* Swainson)**] (http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2109.2005.01353.x/full)
 
 #####Aquaculture Research, 2005
 
