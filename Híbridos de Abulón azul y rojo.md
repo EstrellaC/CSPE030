@@ -1,19 +1,14 @@
 <img src="http://posgrados.cicese.mx/img/logos/cicese.jpg" / width = 20%>
 
-##**Certificación genética de presuntos híbridos de abulón azul y rojo (*Haliotis fulgens Philippi and H. rufescens Swainson*)**
+##**[Certificación genética de presuntos híbridos de abulón azul y rojo (*Haliotis fulgens* Philippi y *H. rufescens* Swainson)**](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2109.2005.01353.x/full)
 
 #####Aquaculture Research, 2005
 
-######Ana M. Ibarra
-######Norma Karina Hernández-Ibarra
-######Pedro Cruz
-######Ricardo Pérez-Enríquez
-######Susana Ávila
-######José  L. Ramírez
+######Ana M. Ibarra, Norma Karina Hernández-Ibarra, Pedro Cruz, Ricardo Pérez-Enríquez, Susana Ávila y José  L. Ramírez
 
 **Resumen por:**Cordova Secuendino Paola Estrella
 
-En el este estudio se verificó la producción de 40 presuntos híbridos, procedentes  de hembras de abulón rojo 
+En el estudio se verificó la producción de 40 presuntos híbridos, procedentes  de hembras de abulón rojo 
 y machos de abulón azul en el  laboratorio “BC Abalone” en el ejido Eréndira en B.C. México, mediante el uso 
 de alozimas y microsatélites.
 
